@@ -42,9 +42,10 @@ $ nvm alias default 16
 $ nvm use 16
 ```
 
-Next, make sure to download the source code for this lesson. Use the "Fork" link
-at the top of the page to fork and clone this lesson onto your computer. Then
-navigate into the lesson's directory and run:
+Next, make sure to download the source code for this lesson. Use the "OctoCat"
+icon at the top of the page to go to the GitHub repo for this lesson. Fork and
+clone this lesson onto your computer, then navigate into the lesson's directory
+and run:
 
 ```console
 $ npm install
@@ -282,8 +283,8 @@ content within `src/components/App.js`.
 
 When working on React labs, it's helpful to have two terminal tabs open:
 
-- In the first tab, run `npm start` to run your React app in the browser
-- In the second tab, run `learn test` or `npm test` to see the test output
+- In the first tab, run `npm start` to run your React app in the browser.
+- In the second tab, run `npm test` to see the test output.
 
 ## Conclusion
 
